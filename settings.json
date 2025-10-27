@@ -1,9 +1,0 @@
-{
-  "editor.fontSize": 20,
-  "editor.lineHeigth": 1.6,
-  "editor.TabSize": 2,
-  "editor.minimap.enabled": false,
-  "editor.wordWarp": "on",
-  "editor.glyphMargin": false,
-  "files.autoSave": "afterDelay"
-}
