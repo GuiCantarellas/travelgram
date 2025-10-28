@@ -1,2 +1,2 @@
 # travelgram-rs
-Aula de CSS Rockeatseat
+Tecnologias usadas HTML e CSS
